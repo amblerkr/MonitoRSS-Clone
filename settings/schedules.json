@@ -23,7 +23,8 @@
   "rsshub": {
     "refreshRateMinutes": 360,
     "keywords": [
-      "https://rsshub.ambler.kr/instagram/user/"
+      "rsshub.ambler.kr/instagram/user/",
+      "rsshub.ambler.kr/facebook/"
     ]
   },
   "bibliogram": {
