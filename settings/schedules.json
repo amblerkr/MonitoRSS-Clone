@@ -13,6 +13,13 @@
       "rssbox.ambler.kr/instagram/"
     ]
   },
+  "rss-bridge": {
+    "refreshRateMinutes": 480,
+    "keywords": [
+      "rss-bridge.herokuapp.com/?action=display&bridge=Facebook",
+      "rss-bridge.herokuapp.com/?action=display&bridge=Instagram"
+    ]
+  },
   "rsshub": {
     "refreshRateMinutes": 360,
     "keywords": [
