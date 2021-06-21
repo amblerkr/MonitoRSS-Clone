@@ -1,16 +1,29 @@
 {
-    "feed43": {
-        "refreshRateMinutes": 60,
-        "keywords": [
-            "feed43",
-            "feed43.com"
-        ]
-    },
-    "rssbox": {
-        "refreshRateMinutes": 30,
-        "keywords": [
-            "rssbox",
-            "rssbox.herokuapp.com"
-        ]
-    }
+  "feed43": {
+    "refreshRateMinutes": 60,
+    "keywords": [
+      "feed43",
+      "feed43.com"
+    ]
+  },
+  "rssbox": {
+    "refreshRateMinutes": 60,
+    "keywords": [
+      "rssbox.herokuapp.com/instagram/",
+      "rssbox.ambler.kr/instagram/"
+    ]
+  },
+  "rsshub": {
+    "refreshRateMinutes": 360,
+    "keywords": [
+      "https://rsshub.ambler.kr/instagram/user/"
+    ]
+  },
+  "bibliogram": {
+    "refreshRateMinutes": 30,
+    "keywords": [
+      "bibliogram",
+      "bibliogram.snopyta.org"
+    ]
+  }
 }
