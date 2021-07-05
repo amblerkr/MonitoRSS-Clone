@@ -21,10 +21,12 @@
     ]
   },
   "rsshub": {
-    "refreshRateMinutes": 360,
+    "refreshRateMinutes": 480,
     "keywords": [
       "rsshub.ambler.kr/instagram/user/",
-      "rsshub.ambler.kr/facebook/"
+      "rsshub.ambler.kr/facebook/",
+      "loona-rss.vercel.app/instagram/"
+      "loona-rss.vercel.app/facebook/"
     ]
   },
   "bibliogram": {
