@@ -16,6 +16,8 @@
   "rss-bridge": {
     "refreshRateMinutes": 480,
     "keywords": [
+      "rssbridge.ambler.kr/?action=display&bridge=Facebook",
+      "rssbridge.ambler.kr/?action=display&bridge=Instagram",
       "rss-bridge.herokuapp.com/?action=display&bridge=Facebook",
       "rss-bridge.herokuapp.com/?action=display&bridge=Instagram"
     ]
@@ -25,7 +27,7 @@
     "keywords": [
       "rsshub.ambler.kr/instagram/user/",
       "rsshub.ambler.kr/facebook/",
-      "loona-rss.vercel.app/instagram/"
+      "loona-rss.vercel.app/instagram/",
       "loona-rss.vercel.app/facebook/"
     ]
   },
